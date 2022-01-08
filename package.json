@@ -1,0 +1,22 @@
+{
+  "name": "cli-fighters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.ts",
+  "scripts": {
+    "start": "ts-node src/main.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "fs-extra": "^10.0.0",
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/fs-extra": "^9.0.13",
+    "@types/inquirer": "^8.1.3"
+  }
+}

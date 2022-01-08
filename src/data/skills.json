@@ -1,0 +1,26 @@
+{
+  "베기": {
+    "sounds": ["슈슉", "슈수슉", "쌩~"],
+    "damageRange": { "min": 3, "max": 6 }
+  },
+  "찌르기": {
+    "sounds": ["푹~", "쿡쿡!"],
+    "damageRange": { "min": 2, "max": 4 }
+  },
+  "발차기": {
+    "sounds": ["으라차차!", "퍽!"],
+    "damageRange": { "min": 1, "max": 2 }
+  },
+  "사이오닉스톰": {
+    "sounds": ["빠지직~", "찌르르르~~~~"],
+    "damageRange": { "min": 1, "max": 8 }
+  },
+  "마인드컨트롤": {
+    "sounds": ["빠져든다~~", "수리수리~~"],
+    "damageRange": { "min": 1, "max": 5 }
+  },
+  "섬광마법": {
+    "sounds": ["태양권!", "번쩍!", "깜빡깜빡!"],
+    "damageRange": { "min": 0, "max": 3 }
+  }
+}

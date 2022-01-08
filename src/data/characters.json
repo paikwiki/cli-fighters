@@ -1,0 +1,30 @@
+[
+  {
+    "sword-master": {
+      "type": "검투사",
+      "name": "이름없음",
+      "abillity": {
+        "power": 8,
+        "speed": 9,
+        "fortune": 9
+      },
+      "greetings": ["내 칼을 받아라~", "챙 챙 챙~", "칼잡이의 무서움을 보여주마"],
+      "skills": ["베기", "찌르기", "발차기"],
+      "energy": 20
+    }
+  },
+  {
+    "marshall-artist": {
+      "type": "마법사",
+      "name": "이름없음",
+      "abillity": {
+        "power": 6,
+        "speed": 9,
+        "fortune": 4
+      },
+      "greetings": ["수리수리~","마술사가 아니라 마법사입니다", "덤비시오-"],
+      "skills": ["사이오닉스톰", "마인드컨트롤", "섬광마법"],
+      "energy": 20
+    }
+  }
+]
