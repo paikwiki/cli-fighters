@@ -7,7 +7,3 @@
 - [inquirer](https://github.com/SBoudrias/Inquirer.js)
 - [chalk](https://github.com/chalk/chalk)
 - [fs-extra](https://github.com/jprichardson/node-fs-extra)
-
-## 참고
-
-현재 시점(2022.01.08)의 [chalk 라이브러리의 5.0 버전은 ECMAScript 모듈(ESM)로 작성되어 있습니다](https://github.com/chalk/chalk/releases/tag/v5.0.0). 타입스크립트와 함께 사용하기 위해서는 실험 단계의 기능 옵션을 활성화하거나, chalk 4.x 버전을 사용해야 합니다.
